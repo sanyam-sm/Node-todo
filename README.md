@@ -33,15 +33,13 @@ Now, the first thing I needed to do is to set EJS as the templating engine with 
     
     
    
-    ```sh
+    
     EJS is a simple templating language 
-    ```
-    ```sh
+    
     that lets you generate HTML markup 
-    ```
-    ```sh
+    
     with plain JavaScript. 
-    ```
+    
 - - - 
 Click This Link for live demo of the project. https://fast-brushlands-03705.herokuapp.com/  
 - - -
