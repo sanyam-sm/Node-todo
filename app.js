@@ -3,12 +3,14 @@ const bodyParser = require("body-parser");
 
 const app = express();
 
+var port = process.env.PORT || 8080;
+
 let items = ["Buy Food"];
 
 app.set("view engine", "ejs");
 
 app.use(bodyParser.urlencoded({extended: true}));
-app.use(express.static("public"));
+app.use(express.static(__dirname + "/public"));
 
 
 app.get("/", (req, res) => {
@@ -36,6 +38,6 @@ app.get("/", (req, res) => {
 });
 
 
-app.listen(3000, function() {
-    console.log("Server running on port 3000");
+app.listen(port, function() {
+    console.log("Server running on port" + port);
 });
