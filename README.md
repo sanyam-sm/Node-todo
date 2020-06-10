@@ -1,7 +1,7 @@
 
 <h1 align="center">Nodejs-Express-Todo-App</h1>
 
- Click This Link for live demo of the project. https://fast-brushlands-03705.herokuapp.com/
+ 
     
 
 <h3 align="center">With This Application<h3>
@@ -17,11 +17,11 @@ node's [Express](https://expressjs.com/) framework on the backend. EJS or Embedd
 <p align="center">
 
 Now, the first thing I needed to do is to set EJS as the templating engine with Express which is a Node.js web    application server framework, which is specifically designed for building single-page, multi-page, and hybrid web  applications. It has become the standard server framework for node.js.
-</p>
+  </p>
 
 
     
-    
+    Click This Link for live demo of the project. https://fast-brushlands-03705.herokuapp.com/
     Here's A Brief Look @ The Application(Gif of node-express-todo-app).
    ![node-express-todo-app.gif](assets/node-express-todo-app.gif)
     
@@ -33,15 +33,15 @@ Now, the first thing I needed to do is to set EJS as the templating engine with 
     
     
    
-
+    ```sh
     EJS is a simple templating language 
-
-    
+    ```
+    ```sh
     that lets you generate HTML markup 
-    
-    
+    ```
+    ```sh
     with plain JavaScript. 
-   
+    ```
 
     
 
