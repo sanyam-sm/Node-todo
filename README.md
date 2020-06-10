@@ -6,8 +6,8 @@
 
 <p align="center">
 <h3 align="center">With This Application<h3>
-I utilized nodejs templating engine [EJS](https://www.ejs.co/) to create a Todo App. I also utilized
-node's [Express](https://www.expressjs.com/) framework on the backend. EJS or Embedded Javascript Templating is a templating engine used by [Nodejs](https://www.nodejs.org/en/). Template engine helps to create an HTML template with minimal code. Also, it can inject data into  HTML template at the client side and produce the final HTML. EJS is a simple templating language which is used to generate HTML markup with plain JavaScript. It also helps to embed JavaScript to HTML pages
+I utilized nodejs templating engine [EJS](https://ejs.co) to create a Todo App. I also utilized
+node's [Express](https://expressjs.com/) framework on the backend. EJS or Embedded Javascript Templating is a templating engine used by [Nodejs](https://nodejs.org/en/). Template engine helps to create an HTML template with minimal code. Also, it can inject data into  HTML template at the client side and produce the final HTML. EJS is a simple templating language which is used to generate HTML markup with plain JavaScript. It also helps to embed JavaScript to HTML pages
 </p>
 
 - - - - - - - - -
