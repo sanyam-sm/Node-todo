@@ -20,7 +20,7 @@ Now, the first thing I needed to do is to set EJS as the templating engine with 
 
 
 
-    Click This Link for live demo of the project https://fast-brushlands-03705.herokuapp.com/
+    [Click This Link for live demo of the project](https://fast-brushlands-03705.herokuapp.com/)
     
     Here's A Brief Look @ The Application(Gif of node-express-todo-app).
    ![node-express-todo-app.gif](assets/node-express-todo-app.gif)
